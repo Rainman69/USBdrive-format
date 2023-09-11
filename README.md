@@ -50,4 +50,7 @@ Please note that running this script will permanently delete all the files on th
 
 Remember to use the script responsibly and exercise caution when selecting the drive letter to avoid accidental data loss.
 
+![Screenshot_1](https://github.com/Rainman69/USBdrive-format/assets/96986338/da89fb68-c101-4b88-90eb-eeeaee0d01de)
+
+
 That's it! You can now use the USB formatting script to erase the contents of a removable USB drive.
